@@ -69,7 +69,11 @@ Halo, saya Andi Ardiansyah.  IT enthusiast yang Sedang sibuk menikmati hidup den
 
 ### 🧩 Most Used Languages
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsteKuaci&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/> -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
+  </a>
+</p>
 
 ---
 
