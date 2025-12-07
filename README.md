@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Este%20Kuaci&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-Halo, saya Andi Ardiansyah.  IT enthusiast yang Sedang sibuk menikmati hidup dengan cara menjalaninya. Biasa diucapkan selamat pada tanggal 05 Mei. Saya mengambil jurusan Teknik Informatika di STMIK Dipanegara dan lulus tepat waktu pada tahun 2020. Terdengar tidak penting, tapi setidaknya saya bisa memulai obrolan dengan, “…sebagai anak informatika,”
+Halo, saya Andi Ardiansyah.  IT enthusiast yang sedang sibuk menikmati hidup dengan cara menjalaninya. Biasa diucapkan selamat pada tanggal 05 Mei. Saya mengambil jurusan Teknik Informatika di STMIK Dipanegara Makassar dan lulus tepat waktu pada tahun 2020. Terdengar tidak penting, tapi setidaknya saya bisa memulai obrolan dengan, “…sebagai anak informatika,”
 
 💡 *“The best code is written with love❤️ and lots of coffee.”*
 
