@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Este%20Kuaci&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 Halo, saya Andi Ardiansyah.  IT enthusiast yang sedang sibuk menikmati hidup dengan cara menjalaninya. Biasa diucapkan selamat pada tanggal 05 Mei. Mengambil jurusan Teknik Informatika sewaktu kuliah dan berhasil lulus tepat waktu. Terdengar tidak penting, tapi setidaknya saya bisa memulai obrolan dengan, “…sebagai anak informatika,”
 
