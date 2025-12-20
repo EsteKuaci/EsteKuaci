@@ -43,7 +43,7 @@ Halo, saya Andi Ardiansyah.  IT enthusiast yang sedang sibuk menikmati hidup den
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,supabase,react,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,nodejs,express,react,nextjs,mysql,mongodb,py&theme=dark" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Halo, saya Andi Ardiansyah.  IT enthusiast yang sedang sibuk menikmati hidup den
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,vite,vercel,notion&theme=dark" />
   </a>
 </p>
 
